@@ -13,7 +13,7 @@
   <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
   <strong>🌐 Exploring</strong> <code>Concurrent & Networked Systems</code> — Socket programming, event-driven architectures, scalability, and high-throughput I/O models<br>
   <strong>🔐 Delving</strong> into <code>Operating Systems & Systems Security</code> — Isolation boundaries, privilege separation, syscall interfaces, and secure system design<br><br>
-  🕳️ <a href="https://dani-sam.github.io/Personal-Website" target="_blank"><b>Enter the Void → Personal Site</b></a>
+  🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
 ---
