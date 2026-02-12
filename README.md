@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Golang-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Podman-1E1E2E?style=for-the-badge&logo=podman&logoColor=892CA0" />
