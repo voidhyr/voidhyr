@@ -38,24 +38,24 @@
     </text>
   </g>
   
-  <!-- Line 2: System Engineer & Rustacean -->
+  <!-- Line 2: Aspiring Infrastructure & Systems Engineer -->
   <g class="line2">
     <text x="400" y="45" text-anchor="middle" class="typing-text">
-      Systems Programmer &amp; Rustacean
+      Aspiring Infrastructure &amp; Systems Engineer
     </text>
   </g>
   
- <!-- Line 3: Systems Researcher & CLI Crafter -->
+ <!-- Line 3: Systems Learner & CLI Crafter -->
 <g class="line3">
   <text x="400" y="45" text-anchor="middle" class="typing-text">
-    Systems Learner &amp; CLI Crafter
+    Systems Learner &#8226; CLI Crafter
   </text>
 </g>
   
   <!-- Line 4: Exploring the Void -->
   <g class="line4">
     <text x="400" y="45" text-anchor="middle" class="typing-text">
-      Exploring the Void of Fast &amp; Secure Systems
+      Exploring the Void of Distributed Systems
     </text>
   </g>
 </svg>
