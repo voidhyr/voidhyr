@@ -8,11 +8,11 @@
 ---
 
 <p align="center">
-  <strong>🌀 Studying & Building</strong> <code>Operating Systems & Computer Networking</code> — Kernel architecture, process scheduling, virtual memory, system calls, and TCP/IP internals<br>
-  <strong>🦀 Building</strong> with <code>Rust</code> — System-level programming, memory-safe concurrency, async runtimes, and low-level networking primitives<br>
-  <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
+  <strong>🌀 Studying & Building</strong> <code>Computer Networking, Cloud Computing & OS Virtualization</code> — Network architecture, cloud infrastructure fundamentals, virtualization technologies, and system internals<br>
+  <strong>⚙️ Building Infrastructure Systems</strong> with <code>Go</code> & <code>Rust</code> — Distributed services, concurrent programming, networking tools, and system-level experimentation<br>
+  <strong>🛠️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
   <strong>🌐 Exploring</strong> <code>Concurrent & Networked Systems</code> — Socket programming, event-driven architectures, scalability, and high-throughput I/O models<br>
-  <strong>🔐 Delving</strong> into <code>Operating Systems & Systems Security</code> — Isolation boundaries, privilege separation, syscall interfaces, and secure system design<br><br>
+  <strong>🔐 Delving</strong> into <code>Operating Systems & Secure System Design</code> — Isolation boundaries, privilege separation, syscall interfaces, and OS-level security fundamentals<br><br>
   🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
