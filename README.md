@@ -9,9 +9,14 @@
 
 <p align="center">
   <strong>🌀 Studying & Building</strong> <code>Computer Networking, Cloud Computing & OS Virtualization</code> — Network architecture, cloud infrastructure fundamentals, virtualization technologies, and system internals<br>
-  <strong>⚙️ Building Infrastructure Systems</strong> with <code>Go</code> & <code>Rust</code> — Distributed services, concurrent programming, networking tools, and system-level experimentation<br>
-  <strong>🛠️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
-  <strong>🌐 Exploring</strong> <code>Concurrent & Networked Systems</code> — Socket programming, event-driven architectures, scalability, and high-throughput I/O models<br>
+  <strong>⚙️ Growing in</strong> <code>Go</code> <strong>for Infrastructure Systems</strong> — 
+  Distributed services, concurrent programming, networking tools, and system-level 
+  experimentation · <em>Rust on the horizon — once Go feels like home</em><br>
+    <strong>🏗️ Working Towards</strong> real infrastructure projects — Load balancers, reverse proxies, key-value stores, and distributed task queues · building deeper into
+    Go one project at a time<br>
+  <strong>🛠️ Drawn to building</strong> ergonomic, blazing-fast 
+  <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
+  <strong>🌐 Exploring</strong> <code>Concurrent & Networked Systems</code> — Goroutines, channels, worker pools, socket programming, event-driven architectures, and high-throughput I/O models<br>
   <strong>🔐 Delving</strong> into <code>Operating Systems & Secure System Design</code> — Isolation boundaries, privilege separation, syscall interfaces, and OS-level security fundamentals<br><br>
   🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
