@@ -24,8 +24,11 @@
     .line4 { animation: showLine 20s ease-in-out infinite; animation-delay: 15s; opacity: 0; }
     
     @keyframes showLine {
-      0%, 20% { opacity: 1; }
-      25%, 100% { opacity: 0; }
+      0%    { opacity: 0; }
+      5%    { opacity: 1; }
+      20%   { opacity: 1; }
+      25%   { opacity: 0; }
+      100%  { opacity: 0; }
     }
   </style>
   
