@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Golang-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Podman-1E1E2E?style=for-the-badge&logo=podman&logoColor=892CA0" />
   <img src="https://img.shields.io/badge/CLI_Tools-1E1E2E?style=for-the-badge&logo=gnometerminal&logoColor=8B5CF6" />
 </p>
