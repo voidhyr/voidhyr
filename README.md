@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GDB-1E1E2E?style=for-the-badge&logo=gnu&logoColor=A42E2B" />
 <img src="https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=57A143" />
+<img src="https://img.shields.io/badge/VSCode-1E1E2E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/PlatformIO-1E1E2E?style=for-the-badge&logo=platformio&logoColor=F5822A" />
 </p>
 
 ---
