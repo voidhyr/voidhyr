@@ -37,28 +37,28 @@
     <!-- Line 1: 👋 Hi, I'm Dani Sam (Voidhyr) -->
     <g class="line1">
       <text x="400" y="45" text-anchor="middle" class="typing-text">
-        👋 Hi, I'm Dani Sam (Voidhyr)
+        👋     Hi, I'm Dani Sam — voidhyr
       </text>
     </g>
 
-      <!-- Line 2: Python & Network Automation Enthusiast -->
+      <!-- Line 2: Aspiring Software Engineer -->
     <g class="line2">
       <text x="400" y="45" text-anchor="middle" class="typing-text">
-       Data Engineering Enthusiast &#8226; Python Developer
+       Aspiring Software Engineer
       </text>
     </g>
 
-    <!-- Line 3: Networking · Automation · Python · Linux -->
+    <!-- Line 3: Python • SQL • Linux -->
   <g class="line3">
     <text x="400" y="45" text-anchor="middle" class="typing-text">
-      SQL &#8226; Python &#8226; Airflow &#8226; Linux
+      Python • SQL • Linux
     </text>
   </g>
 
     <!-- Line 4: Exploring the Void -->
     <g class="line4">
       <text x="400" y="45" text-anchor="middle" class="typing-text">
-        Exploring the Void — Data to Insights
+        Exploring the Void — From Curiosity to Creation
       </text>
     </g>
   </svg>
