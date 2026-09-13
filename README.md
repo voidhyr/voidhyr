@@ -32,10 +32,11 @@ def voidhyr():
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/FastAPI-1E1E2E?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-1E1E2E?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-1E1E2E?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow" />
 </p>
 
 <p align="center">
