@@ -17,16 +17,18 @@ def voidhyr():
         "aspiring_to": "Software Engineer",
         "building": ["Python tools", "Data pipelines"],
         "learning": ["Python", "SQL", "Software development"],
-        "interests": [
-            "Data systems", "AI models", "Security",
-            "Linux", "Independent research"
+        "working_with": ["NumPy", "Pandas", "Matplotlib"],
+        "exploring": [
+            "Efficient AI",
+            "Accessible computing",
+            "Independent research"
         ],
         "mindset": "Build it. Question it. Understand it."
     }
 ```
 
 <p align="center">
-  Curious about how things work. Learning by building and experimenting.
+  Curious about how things work and what’s possible. Learning by building and experimenting.
 </p>
 
 <p align="center">
