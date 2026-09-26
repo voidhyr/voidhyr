@@ -19,7 +19,7 @@ def voidhyr():
         "learning": ["Python", "SQL", "Software development"],
         "working_with": ["NumPy", "Pandas", "Matplotlib"],
         "exploring": [
-            "Efficient AI",
+            "Green AI",
             "Accessible computing",
             "Independent research"
         ],
