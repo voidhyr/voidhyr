@@ -33,10 +33,10 @@ def voidhyr():
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-1E1E2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-1E1E2E?style=for-the-badge&logo=pandas&logoColor=E2E8F0" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-1E1E2E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/SQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-  <img src="https://img.shields.io/badge/FastAPI-1E1E2E?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-1E1E2E?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
