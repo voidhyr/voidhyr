@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>BUILD SOFTWARE &nbsp; · &nbsp; EXPLORE DATA &nbsp; · &nbsp; TEST IDEAS</strong>
+  <strong>BUILD SOFTWARE &nbsp; · &nbsp; EXPLORE SYSTEMS &nbsp; · &nbsp; TEST IDEAS</strong>
 </p>
 
 ```text
