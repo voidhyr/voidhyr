@@ -10,21 +10,20 @@
   <strong>BUILD SOFTWARE &nbsp; · &nbsp; EXPLORE DATA &nbsp; · &nbsp; TEST IDEAS</strong>
 </p>
 
-```python
-def voidhyr():
-    return {
-        "name": "Dani Sam",
-        "aspiring_to": "Software Engineer",
-        "building": ["Python tools", "Data pipelines"],
-        "learning": ["Python", "SQL", "Software development", "Machine learning", "FastAPI"],
-        "working_with": ["NumPy", "Pandas", "Matplotlib"],
-        "exploring": [
-            "Green AI",
-            "Accessible computing",
-            "Independent research"
-        ],
-        "mindset": "Build it. Question it. Understand it."
-    }
+```text
+voidhyr {
+    name:        "Dani Sam"
+    aspiring_to: "Software Engineer"
+    building:      ["Small software tools"]
+    learning:      ["Go", "SQL", "Software development"]
+    familiar_with: ["Python", "Linux", "Git"]
+    exploring: [
+        "Computer systems"
+        "Efficient computing"
+        "WebAssembly"
+    ]
+    mindset: "Build it. Question it. Understand it."
+}
 ```
 
 <p align="center">
