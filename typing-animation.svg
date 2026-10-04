@@ -39,7 +39,7 @@
   <!-- Slide 3: Core Stack -->
   <g>
     <text x="45" y="52" class="banner-text" fill="#F1F5F9">
-      <tspan fill="#F59E0B">⚡</tspan> Python • SQL • Linux
+      <tspan fill="#F59E0B">⚡</tspan> Go • SQL • Linux
     </text>
     <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0" keyTimes="0;0.25;0.50;0.53;0.72;0.75;0.97;0.99;1" dur="20s" repeatCount="indefinite" />
   </g>
