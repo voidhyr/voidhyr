@@ -12,15 +12,15 @@
 
 ```text
 voidhyr {
-    name:        "Dani Sam"
-    aspiring_to: "Software Engineer"
-    building:      ["Small software tools"]
-    learning:      ["Go", "SQL", "Software development"]
-    familiar_with: ["Python", "Linux", "Git"]
+    name:          "Dani Sam"
+    aspiring_to:   "Software Engineer"
+    building:      ["Small tools", "A particle simulation"]
+    learning:      ["Rust", "Software development"]
+    familiar_with: ["Go", "Python", "SQL", "Linux", "Git"]
     exploring: [
         "Computer systems"
-        "Efficient computing"
         "WebAssembly"
+        "Efficient computing"
     ]
     mindset: "Build it. Question it. Understand it."
 }
@@ -31,7 +31,7 @@ voidhyr {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=000000" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/SQLite-1E1E2E?style=for-the-badge&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
