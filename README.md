@@ -17,6 +17,7 @@ voidhyr {
     learning:      ["Elixir", "Software development"]
     familiar_with: ["Go", "Python", "SQL", "Linux", "Git"]
     exploring: [
+        "Telecom & networking"
         "Distributed systems"
         "IoT communication"
         "Real-time communication"
