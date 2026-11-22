@@ -14,7 +14,7 @@
 voidhyr {
     name:          "Dani Sam"
     aspiring_to:   "Software Engineer"
-    learning:      ["Rust", "Software development"]
+    learning:      ["Elixir", "Software development"]
     familiar_with: ["Go", "Python", "SQL", "Linux", "Git"]
     exploring: [
         "Distributed systems"
