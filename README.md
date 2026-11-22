@@ -14,13 +14,12 @@
 voidhyr {
     name:          "Dani Sam"
     aspiring_to:   "Software Engineer"
-    building:      ["Small tools", "A particle simulation"]
     learning:      ["Rust", "Software development"]
     familiar_with: ["Go", "Python", "SQL", "Linux", "Git"]
     exploring: [
-        "Computer systems"
-        "WebAssembly"
-        "Efficient computing"
+        "Distributed systems"
+        "IoT communication"
+        "Real-time communication"
     ]
     mindset: "Build it. Question it. Understand it."
 }
@@ -31,12 +30,11 @@ voidhyr {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/SQLite-1E1E2E?style=for-the-badge&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
+<img src="https://img.shields.io/badge/Elixir-1E1E2E?style=for-the-badge&logo=elixir&logoColor=A78BFA" alt="Elixir" />
+ <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+ <img src="https://img.shields.io/badge/SQLite-1E1E2E?style=for-the-badge&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
+ <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+ <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> </p>
 
 <p align="center">
   <a href="https://voidhyr.github.io/Personal-Website/">
