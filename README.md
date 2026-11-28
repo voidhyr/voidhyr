@@ -19,7 +19,6 @@ voidhyr {
     exploring: [
         "Simulation"
         "Efficient computing"
-
     ]
     mindset: "Build it. Question it. Understand it."
 }
