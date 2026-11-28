@@ -14,13 +14,12 @@
 voidhyr {
     name:          "Dani Sam"
     aspiring_to:   "Software Engineer"
-    learning:      ["Elixir", "Software development"]
+    learning:      ["Julia", "Software development"]
     familiar_with: ["Go", "Python", "SQL", "Linux", "Git"]
     exploring: [
-        "Telecom & networking"
-        "Distributed systems"
-        "IoT communication"
-        "Real-time communication"
+        "Simulation"
+        "Efficient computing"
+
     ]
     mindset: "Build it. Question it. Understand it."
 }
@@ -31,7 +30,7 @@ voidhyr {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Elixir-1E1E2E?style=for-the-badge&logo=elixir&logoColor=A78BFA" alt="Elixir" />
+<img src="https://img.shields.io/badge/Julia-1E1E2E?style=for-the-badge&logo=julia&logoColor=9558B2" alt="Julia" />
  <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
  <img src="https://img.shields.io/badge/SQLite-1E1E2E?style=for-the-badge&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
  <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
